@@ -1,5 +1,9 @@
 # coffee-bean-classifier
- 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13+-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 > **Applied AI & Interdisciplinary Integration**  
 > *April 2026*
 
