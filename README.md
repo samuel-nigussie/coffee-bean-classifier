@@ -27,8 +27,8 @@ This prototype was developed during an internal rapid prototyping sprint to vali
 
 | Member         | Role                                      | Key Deliverable                               |
 |----------------|-------------------------------------------|-----------------------------------------------|
-| **Samuel**     | Systems Architect & Integration Lead      | Webcam verification, inference bridge, **UI optimization**  |
-| **Nole**       | Data Science & Performance                | Trained models (MobileNetV2 + CNN), validation ≥ 80%, **technical report** |
+| **Samuel**     | Systems Architect & Integration Lead      | Webcam verification, inference bridge, **UI optimization** ,Techinical report |
+| **Nole**       | Data Science & Performance                | Trained models (MobileNetV2 + CNN), validation ≥ 80%, |
 | **Efrata**     | AI Integration & Real-Time Systems        | Inference pipeline, FPS tuning, integration support |
 
 ---
