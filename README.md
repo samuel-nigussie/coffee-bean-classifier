@@ -68,16 +68,15 @@ We combined public and custom data to ensure robust classification across lighti
 
 ## System Architecture
 
-```mermaid id="z0h2rz"
+```mermaid
 graph TD
-A[Webcam Feed] --> B[cv2.VideoCapture]
-B --> C[Frame Read (cap.read)]
-C --> D[Preprocessing<br/>Resize + Normalize]
-D --> E[Model Inference<br/>MobileNetV2 / CNN]
-E --> F[Prediction<br/>GOOD / BAD]
-F --> G[Display Frame + Label<br/>cv2.imshow]
+A[Webcam Feed] --> B[Capture Frame]
+B --> C[Preprocess Image]
+C --> D[Run Model]
+D --> E[Classify GOOD or BAD]
+E --> F[Show Result]
 ```
- ---
+
 
 ##  Models
 
