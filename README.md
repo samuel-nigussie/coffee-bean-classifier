@@ -53,4 +53,4 @@ Two models were trained and compared:
 
 
 
-![alt text](Architectural_Map.drawio.png)
+![alt text](<AI System Architecture Map.png>)
