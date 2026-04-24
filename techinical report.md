@@ -62,14 +62,29 @@ To resolve low-light classification failures, data augmentation was implemented 
 ## 4. Folder Architecture
 
 coffee-project/
-    data/                 # Training images (GOOD / BAD subfolders)
-    models/               # Saved models (mobilenetv2_model.h5, cnn_model.h5)
-    src/                  # Integration scripts
-        test_webcam.py    # Hardware verification
-        inference.py      # Live classifier + UI
-        utils.py          # Helper functions
-    outputs/              # Training results (accuracy_plot.png, model_summary.txt)
-    README.md             # Project documentation
+│
+├── data/
+│   ├── GOOD/
+│   └── BAD/
+│
+├── models/
+│   ├── mobilenetv2_model.h5
+│   └── cnn_model.h5
+│
+├── src/
+│   ├── inference.py
+│   ├── utils.py
+│
+├── tests/
+│   └── test_webcam.py
+│
+├── outputs/
+│   ├── accuracy_plot.png
+│   └── model_summary.txt
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
 ---
 ## 5. Key Technical Challenges
 
