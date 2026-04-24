@@ -29,6 +29,16 @@ This prototype was developed during an internal rapid prototyping sprint to vali
 
 ---
 
+
+
+## AI System Architecture Map
+
+
+
+
+<img width="2102" height="1692" alt="AI System Architecture Map" src="https://github.com/user-attachments/assets/002cb4d7-8ce0-4cb3-ae8a-48dcaa48c4bd" />
+
+
 ##  Models
 
 Two models were trained and compared:
@@ -47,10 +57,3 @@ Two models were trained and compared:
 
 --
 
-
-## AI System Architecture Map
-
-
-
-
-<img width="2102" height="1692" alt="AI System Architecture Map" src="https://github.com/user-attachments/assets/002cb4d7-8ce0-4cb3-ae8a-48dcaa48c4bd" />
