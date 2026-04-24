@@ -62,8 +62,6 @@ To resolve low-light classification failures, data augmentation was implemented 
 ## 4. Folder Architecture
 
 coffee-bean-classifier/
-
-    reuirements/
     
     data/                 # Training images (GOOD / BAD subfolders)
     
@@ -75,11 +73,13 @@ coffee-bean-classifier/
         
         inference.py      # Live classifier + UI
         
-        train.py          # Helper functions
+        train.py          # Model training script
     
     outputs/              # Training results (accuracy_plot.png, model_summary.txt)
 
-    techinical report/
+    techinical report/    # Project report
+
+    requirements.txt /    # Project dependencies
     
     README.md             # Project documentation
 ---
