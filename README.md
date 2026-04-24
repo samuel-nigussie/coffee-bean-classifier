@@ -1,5 +1,9 @@
 # coffee-bean-classifier
- 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13+-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 > **Applied AI & Interdisciplinary Integration**  
 > *April 2026*
 
@@ -29,6 +33,36 @@ This prototype was developed during an internal rapid prototyping sprint to vali
 
 ---
 
+## Prerequisites
+
+- Python 3.8+
+- Webcam (laptop or USB)
+- Git
+- VS Code (recommended)
+
+---
+
+
+## Dataset
+
+We combined public and custom data to ensure robust classification across lighting conditions.
+
+| Source | Details |
+|--------|---------|
+| Kaggle Coffee Bean Dataset | Base training data with labeled good/bad beans |
+| Custom Phone Images | 20–40 images captured under varied lighting for variance |
+| Data Augmentation | Brightness shifts, rotation, horizontal flip |
+
+
+
+## AI System Architecture Map
+
+
+
+
+<img width="2102" height="1692" alt="AI System Architecture Map" src="https://github.com/user-attachments/assets/002cb4d7-8ce0-4cb3-ae8a-48dcaa48c4bd" />
+
+
 ##  Models
 
 Two models were trained and compared:
@@ -47,8 +81,11 @@ Two models were trained and compared:
 
 --
 
+<<<<<<< HEAD
 
 ## AI System Architecture Map
 
 
 
+=======
+>>>>>>> 26c74624ad1238d72f1d928a0506a2297f4f226b
