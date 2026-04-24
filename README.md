@@ -52,5 +52,3 @@ Two models were trained and compared:
 
 
 
-
-![alt text](<AI System Architecture Map.png>)
