@@ -61,6 +61,7 @@ To resolve low-light classification failures, data augmentation was implemented 
 
 ## 4. Folder Architecture
 
+
 coffee-project/
 │
 ├── data/
@@ -73,18 +74,17 @@ coffee-project/
 │
 ├── src/
 │   ├── inference.py
-│   ├── utils.py
-│
-├── tests/
+│   ├── train.py
 │   └── test_webcam.py
 │
 ├── outputs/
 │   ├── accuracy_plot.png
-│   └── model_summary.txt
+│  
 │
 ├── requirements.txt
-├── .gitignore
 └── README.md
+```
+
 ---
 ## 5. Key Technical Challenges
 
