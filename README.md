@@ -53,4 +53,4 @@ Two models were trained and compared:
 
 
 
-![alt text](<AI System Architecture Map.png>)
+<img width="2102" height="1692" alt="AI System Architecture Map" src="https://github.com/user-attachments/assets/002cb4d7-8ce0-4cb3-ae8a-48dcaa48c4bd" />
