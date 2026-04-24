@@ -63,6 +63,22 @@ We combined public and custom data to ensure robust classification across lighti
 <img width="2102" height="1692" alt="AI System Architecture Map" src="https://github.com/user-attachments/assets/002cb4d7-8ce0-4cb3-ae8a-48dcaa48c4bd" />
 
 
+
+---
+
+## System Architecture
+
+```mermaid id="z0h2rz"
+graph TD
+A[Webcam Feed] --> B[cv2.VideoCapture]
+B --> C[Frame Read (cap.read)]
+C --> D[Preprocessing<br/>Resize + Normalize]
+D --> E[Model Inference<br/>MobileNetV2 / CNN]
+E --> F[Prediction<br/>GOOD / BAD]
+F --> G[Display Frame + Label<br/>cv2.imshow]
+```
+ ---
+
 ##  Models
 
 Two models were trained and compared:
