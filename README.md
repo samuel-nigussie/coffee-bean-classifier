@@ -10,11 +10,12 @@
 This project builds a real-time **coffee bean quality classifier** using a webcam and a deep learning model.  
 The system classifies each bean frame as **GOOD** or **BAD** and displays the result with a green/red indicator — simulating an automated optical sorter for coffee production lines.
 
-This prototype was developed as part of an internal rapid prototyping sprint, focusing on:
-- Transfer learning with MobileNetV2
+This prototype was developed during an internal rapid prototyping sprint to validate a computer vision pipeline. The focus was on evaluating:
+
+- Transfer learning using MobileNetV2 for efficient image  classification
 - Real-time webcam inference using OpenCV
-- Performance comparison with a simple CNN
-- Professional GitHub documentation & system architecture
+- Performance benchmarking against a baseline CNN model
+- Project structuring, version control, and documentation   using GitHub
 
 ---
 
