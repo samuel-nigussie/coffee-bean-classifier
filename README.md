@@ -46,3 +46,6 @@ Two models were trained and compared:
 >  Primary model validation accuracy: **≥ 80%**
 
 --
+   ##AI System Architecture Map
+
+![alt text](Architectural_Map.drawio(2).png)
