@@ -33,6 +33,26 @@ This prototype was developed during an internal rapid prototyping sprint to vali
 
 ---
 
+## Prerequisites
+
+- Python 3.8+
+- Webcam (laptop or USB)
+- Git
+- VS Code (recommended)
+
+---
+
+
+## Dataset
+
+We combined public and custom data to ensure robust classification across lighting conditions.
+
+| Source | Details |
+|--------|---------|
+| Kaggle Coffee Bean Dataset | Base training data with labeled good/bad beans |
+| Custom Phone Images | 20–40 images captured under varied lighting for variance |
+| Data Augmentation | Brightness shifts, rotation, horizontal flip |
+
 
 
 ## AI System Architecture Map
