@@ -22,7 +22,7 @@ This prototype was developed as part of an internal rapid prototyping sprint, fo
 
 | Member         | Role                                      | Key Deliverable                               |
 |----------------|-------------------------------------------|-----------------------------------------------|
-| **Samuel**     | Systems Architect & Integration Lead      | Webcam verification, inference bridge, **UI optimization** (green/red borders + labels) |
+| **Samuel**     | Systems Architect & Integration Lead      | Webcam verification, inference bridge, **UI optimization**  |
 | **Nole**       | Data Science & Performance                | Trained models (MobileNetV2 + CNN), validation ≥ 80%, **technical report** |
 | **Efrata**     | AI Integration & Real-Time Systems        | Inference pipeline, FPS tuning, integration support |
 
