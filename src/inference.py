@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
 
-model = load_model("coffee_model_v1.h5")
+model = load_model("model/coffee_model_v1.h5")
 
 #Frame preprocessor
 def preprocess(frame):
