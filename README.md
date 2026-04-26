@@ -96,4 +96,4 @@ Two models were trained and compared:
 
 ---
 
-## Author: Samuel Nigussie
+**Author:** Samuel Nigussie
