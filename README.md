@@ -95,3 +95,5 @@ Two models were trained and compared:
 >  Primary model validation accuracy: **≥ 80%**
 
 ---
+
+## Author: Samuel Nigussie
