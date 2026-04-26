@@ -111,6 +111,7 @@ The MobileNetV2 classifier provides an optimal balance of **speed, low latency, 
 
 ---
 
+**Author:** Samuel Nigussie
 **Report by:**  Nole Mohammed   
-**Contributors:** Samuel , Efrata 
+**Contributors:** Samuel , Efrata ,Nole
 **Date:** April,26,2026
